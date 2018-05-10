@@ -1,0 +1,3 @@
+WHEATHER FINDER
+
+API build with REACT
